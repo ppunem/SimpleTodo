@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffc2a0;
+  height: 100vh;
+  background-size: cover;
+  padding: 15px;
+}
+.card {
+  background-color: #ffffff;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'roboto';
+}
+.list-container {
+  list-style-type: none;
+}
